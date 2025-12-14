@@ -29,7 +29,7 @@ GUPPSHUPP/
 ├── src/               # Application source code
 │   ├── assets/        # Images, icons, etc.
 │   ├── components/    # Reusable UI components
-|   ├── services/      # gemini services provided
+│   ├── services/      # gemini services provided
 │   ├── pages/         # Page-level components
 │   ├── App.tsx        # Root component
 │   └── main.tsx       # Application entry point
